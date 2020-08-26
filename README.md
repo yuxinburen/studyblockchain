@@ -10,7 +10,7 @@
 
 如果对内容感兴趣，或者有技术问题需要交流，可以扫码交个朋友，添加时注明”学习区块链“即可。
 
-![](/Users/hongweiyu/Documents/studyblockchain/img/WechatIMG5.jpeg)
+![](https://github.com/yuxinburen/studyblockchain/tree/master/img/WechatIMG5.jpeg)
 
 #### 内容
 
